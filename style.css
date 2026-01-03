@@ -4,13 +4,13 @@ body {
     margin: 150px auto;
 }
 h1 {
-    color: #CD5C5C;
+    color: #8B008B;
 }
 li {
-    color: #CD5C5C;
+    color: #8B008B;
 }
 p {
-    color: #CD5C5C;
+    color: #8B008B;
 }
 h2 {
     color: #4682B4;
@@ -36,8 +36,9 @@ h1, h2 {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 body {
-    background: linear-gradient(135deg, #DCDCDC, #696969) !important;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%) !important;
 }
+
 
 
 
