@@ -17,3 +17,15 @@ h2 {
 body {
     background-color: #D3D3D3;
 }
+.tg-link {
+    color: #0088cc;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+    transition: all 0.3s;
+}
+
+.tg-link:hover {
+    color: #006699;
+    border-bottom: 2px solid #0088cc;
+}
