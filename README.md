@@ -1,2 +1,2 @@
-# My-demo-prroject
+# My-demo-project
 It is my demonstration project!
