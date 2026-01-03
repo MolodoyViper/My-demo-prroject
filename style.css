@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, sans-serif;
+    max-width: 500px;
+    margin: 150px auto;
+}
+h1 {
+    color: #DA70D6;
+}
+li {
+    color: #DA70D6;
+}
+p {
+    color: #DA70D6;
+}
+body {
+    background-color: #D3D3D3;
+}
