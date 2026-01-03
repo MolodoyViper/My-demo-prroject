@@ -4,16 +4,16 @@ body {
     margin: 150px auto;
 }
 h1 {
-    color: #8B008B;
+    color: #FFDAB9;
 }
 li {
-    color: #8B008B;
+    color: #FFDAB9;
 }
 p {
-    color: #8B008B;
+    color: #FFDAB9;
 }
 h2 {
-    color: #4682B4;
+    color: #FFDAB9;
 }
 .tg-link {
     color: #0088cc;
@@ -27,17 +27,13 @@ h2 {
     color: #006699;
     border-bottom: 2px solid #0088cc;
 }
-.container {
-    background: rgba(0, 0, 0, 0.3);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
 h1, h2 {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 body {
     background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%) !important;
 }
+
 
 
 
