@@ -4,13 +4,13 @@ body {
     margin: 150px auto;
 }
 h1 {
-    color: #DA70D6;
+    color: #CD5C5C;
 }
 li {
-    color: #DA70D6;
+    color: #CD5C5C;
 }
 p {
-    color: #DA70D6;
+    color: #CD5C5C;
 }
 h2 {
     color: #4682B4;
@@ -38,5 +38,6 @@ h1, h2 {
 body {
     background: linear-gradient(135deg, #DCDCDC, #696969) !important;
 }
+
 
 
