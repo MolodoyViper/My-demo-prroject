@@ -14,8 +14,9 @@ p {
 }
 h2 {
     color: #4682B4;
+}
 body {
-    background-color: #D3D3D3;
+    background: linear-gradient(135deg, #ff0000, #00ff00) !important;
 }
 .tg-link {
     color: #0088cc;
@@ -29,3 +30,4 @@ body {
     color: #006699;
     border-bottom: 2px solid #0088cc;
 }
+
